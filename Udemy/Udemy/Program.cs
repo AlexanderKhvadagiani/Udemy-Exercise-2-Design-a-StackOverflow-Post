@@ -13,10 +13,8 @@ namespace Udemy
             post.UpVote();
             post.UpVote();
             post.DownVote();
-
-            var vote = post.Vote;
             Console.WriteLine(publish);
-            Console.WriteLine(vote);
+            Console.WriteLine("Vote : "+post.Vote);
         }
     }
 }
