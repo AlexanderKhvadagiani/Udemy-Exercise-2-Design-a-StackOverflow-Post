@@ -1,0 +1,12 @@
+/Users/singular/RiderProjects/Udemy/Udemy/bin/Debug/netcoreapp3.0/Udemy
+/Users/singular/RiderProjects/Udemy/Udemy/bin/Debug/netcoreapp3.0/Udemy.deps.json
+/Users/singular/RiderProjects/Udemy/Udemy/bin/Debug/netcoreapp3.0/Udemy.runtimeconfig.json
+/Users/singular/RiderProjects/Udemy/Udemy/bin/Debug/netcoreapp3.0/Udemy.runtimeconfig.dev.json
+/Users/singular/RiderProjects/Udemy/Udemy/bin/Debug/netcoreapp3.0/Udemy.dll
+/Users/singular/RiderProjects/Udemy/Udemy/bin/Debug/netcoreapp3.0/Udemy.pdb
+/Users/singular/RiderProjects/Udemy/Udemy/obj/Debug/netcoreapp3.0/Udemy.csprojAssemblyReference.cache
+/Users/singular/RiderProjects/Udemy/Udemy/obj/Debug/netcoreapp3.0/Udemy.csproj.CoreCompileInputs.cache
+/Users/singular/RiderProjects/Udemy/Udemy/obj/Debug/netcoreapp3.0/Udemy.AssemblyInfoInputs.cache
+/Users/singular/RiderProjects/Udemy/Udemy/obj/Debug/netcoreapp3.0/Udemy.AssemblyInfo.cs
+/Users/singular/RiderProjects/Udemy/Udemy/obj/Debug/netcoreapp3.0/Udemy.dll
+/Users/singular/RiderProjects/Udemy/Udemy/obj/Debug/netcoreapp3.0/Udemy.pdb
