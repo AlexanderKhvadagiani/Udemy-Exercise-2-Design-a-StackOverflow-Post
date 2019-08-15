@@ -8,15 +8,13 @@ namespace Udemy
         {
             var post = new Post {Title = "Something new", Description = "Something new Something newSomething newSomething new"};
            
-            var blog = post.Publish;
+            var publish = post.Publish;
+            post.UpVote();
             post.UpVote();
             post.UpVote();
             post.DownVote();
-
-            var vote = post.ShowWote;
-
-            Console.WriteLine(blog);
-            Console.WriteLine(vote);
+            Console.WriteLine(publish);
+            Console.WriteLine("Vote : "+post.Vote);
         }
     }
 }

@@ -6,23 +6,25 @@ namespace Udemy
     {
         public string Title { private get; set; }
         public string Description { private get; set; }
-        private DateTime CreateDate { get; set; }
-        private int Vote { get; set; }
+        private readonly DateTime _createDate;
+        public int Vote { get; private set; }
+
 
         public Post()
         {
-            CreateDate = DateTime.Now;
+            _createDate = DateTime.Now;
         }
-
         public string Publish
         {
             set
             {
                 Title = value;
                 Description = value;
+                
+                
             }
 
-            get => "Title : " + Title + "\nDesc : " + Description + "\nDate : " + CreateDate;
+            get => "Title : "+ Title +"\nDesc : "+Description+"\nDate : "+_createDate;
         }
 
         public void UpVote()
@@ -34,7 +36,5 @@ namespace Udemy
         {
             Vote--;
         }
-
-        public int ShowWote => Vote;
     }
 }
